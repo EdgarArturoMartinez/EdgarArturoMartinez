@@ -51,6 +51,6 @@ Arturo's diverse experience, spanning multiple countries and industries, coupled
 ---
 
 ## ⚽ Hobbies & Interests
-- Soccer
+- Football
 - Running
 - Reading
