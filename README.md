@@ -1,7 +1,7 @@
 # Edgar Arturo Martínez Gambasica
 
 **Profession/Role:**  
-Fullstack Software Developer
+Senior Fullstack Developer / Cloud & Data Solutions Expert / .Net /Microsoft Azure / SQL / Python
 
 ---
 
