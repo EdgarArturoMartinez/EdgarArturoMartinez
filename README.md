@@ -16,6 +16,7 @@ Fullstack Software Developer
 ---
 
 ## 🚀 Favorite/Highlight Projects
+- [ASP_Net_Core_RESTAPI_SQL](https://github.com/EdgarArturoMartinez/RESTSQLAPIVsCode)
 - [BountyServerlessAzureYuxi](https://github.com/EdgarArturoMartinez/BountyServerlessAzureYuxi)
 - [EF7vsWorld](https://github.com/EdgarArturoMartinez/EF7vsWorld)
 - [WebApi_NetCore6AngularApp](https://github.com/EdgarArturoMartinez/WebApi_NetCore6AngularApp)
