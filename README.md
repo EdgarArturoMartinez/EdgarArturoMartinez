@@ -16,6 +16,7 @@ Senior Fullstack Developer / Cloud & Data Solutions Expert / .Net /Microsoft Azu
 ---
 
 ## 🚀 Favorite/Highlight Projects
+- [REST_API_ProductsAPI](https://github.com/EdgarArturoMartinez/HRBackEndExercise)
 - [.Net8_LibraryManagement_System_API](https://github.com/EdgarArturoMartinez/.Net8_LibraryManagement_System_API)
 - [ASP_Net_Core_RESTAPI_SQL](https://github.com/EdgarArturoMartinez/RESTSQLAPIVsCode)
 - [BountyServerlessAzureYuxi](https://github.com/EdgarArturoMartinez/BountyServerlessAzureYuxi)
