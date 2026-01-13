@@ -1,7 +1,10 @@
-# Edgar Arturo Martínez Gambasica
+# Edgar Arturo Martínez Gambasica 👋
 
 **Profession/Role:**  
 Senior Fullstack Developer / Cloud & Data Solutions Expert / .Net /Microsoft Azure / SQL / Python
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-arturo-mart%C3%ADnez-gambasica-ab8ab4a9/?locale=en_US)
+[![Available for hire](https://img.shields.io/badge/Available-for%20contract%20%2F%20full-time-green)]()
 
 ---
 
