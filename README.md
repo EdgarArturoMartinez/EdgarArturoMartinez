@@ -22,6 +22,7 @@ Senior Fullstack Developer / Cloud & Data Solutions Expert / .Net /Microsoft Azu
 - [.Net8_LibraryManagement_System_API](https://github.com/EdgarArturoMartinez/.Net8_LibraryManagement_System_API) — Modern .NET 8 API for library management and CRUD operations.
 - [ASP_Net_Core_RESTAPI_SQL](https://github.com/EdgarArturoMartinez/RESTSQLAPIVsCode) — ASP.NET Core REST API backed by SQL Server, configured for VS Code.
 - [BountyServerlessAzureYuxi](https://github.com/EdgarArturoMartinez/BountyServerlessAzureYuxi) — Serverless Azure Functions implementation for event-driven workflows.
+- [.Net Framework API + SQL](https://github.com/EdgarArturoMartinez/API_NetFramework_SQL) — .Net Framewrok Architecture API Connected to SQL.
 - [EF7vsWorld](https://github.com/EdgarArturoMartinez/EF7vsWorld) — Experiments and comparisons using EF7 (Entity Framework Core).
 - [WebApi_NetCore6AngularApp](https://github.com/EdgarArturoMartinez/WebApi_NetCore6AngularApp) — Full-stack example: .NET Core 6 Web API + Angular frontend.
 - [AppDistribuidores_TYT_MySql](https://github.com/EdgarArturoMartinez/AppDistribuidores_TYT_MySql) — Distributor management system using MySQL and .NET.
