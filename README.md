@@ -18,6 +18,7 @@ Senior Fullstack Developer / Cloud & Data Solutions Expert / .Net /Microsoft Azu
 ---
 
 ## 🚀 Favorite/Highlight Projects
+- [Clean_Architecture_Project](https://github.com/EdgarArturoMartinez/API_ACHILLESLASTSTAND) — Clean Architecture / SOLID / Design Patterns API Project.
 - [REST_API_ProductsAPI](https://github.com/EdgarArturoMartinez/HRBackEndExercise) — REST API example for HR/product scenarios with .NET patterns.
 - [.Net8_LibraryManagement_System_API](https://github.com/EdgarArturoMartinez/.Net8_LibraryManagement_System_API) — Modern .NET 8 API for library management and CRUD operations.
 - [ASP_Net_Core_RESTAPI_SQL](https://github.com/EdgarArturoMartinez/RESTSQLAPIVsCode) — ASP.NET Core REST API backed by SQL Server, configured for VS Code.
