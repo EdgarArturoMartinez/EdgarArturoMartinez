@@ -9,11 +9,12 @@ Senior Fullstack Developer / Cloud & Data Solutions Expert / .Net /Microsoft Azu
 
 ## 🛠️ Top Skills & Technologies
 - **Languages/Frameworks:** C#, Microsoft Azure Cloud Services, .Net Framework, .Net Core, Blazor, MVC, Web Forms, Entity Framework, Dapper, ADO.Net, Linq, Visual Basic 6, VBA
-- **Databases:** SQL Server, MySQL
+- **Databases:** SQL Server, MySQL, ReDis, MondoDB
 - **Cloud & DevOps:** Azure DevOps, Azure Web Apps, Azure Functions, Azure ServiceBus, TFS, Git, CI/CD
 - **Reporting & Analytics:** Power BI, SSRS Reporting Services, Tableau, ETL, Data Modeling, SSIS
 - **Project Management:** Agile Methodology, Project Administration, Monitoring
 - **Web/Automation:** API Projects (C#/.Net, Python), Angular, Automation Testing (Selenium, Appium), PHP CMS
+- **Cloud / Azure:** API Management, Service Bus, Functions, KeyVault, BlobStorage, TableStorage, Microsoft AppInsights
 
 ---
 
