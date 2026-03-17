@@ -1,7 +1,7 @@
 # Edgar Arturo Martínez Gambasica 👋
 
 **Profession/Role:**  
-Senior Fullstack Developer / Cloud & Data Solutions Expert / .Net /Microsoft Azure / SQL / Python
+Senior .NET Full Stack Engineer | API Architect & Azure CI/CD | Gen AI & LLM Integration | SQL · MongoDB · Redis | React · Angular · Blazor · C#
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-arturo-mart%C3%ADnez-gambasica-ab8ab4a9/?locale=en_US)
 
