@@ -19,6 +19,8 @@ Senior .NET Full Stack Engineer | API Architect & Azure CI/CD | Gen AI & LLM Int
 ---
 
 ## 🚀 Favorite/Highlight Projects
+- [Ingestion Pipeline AI](https://github.com/EdgarArturoMartinez/SyncMetrics) — extensible C# ingestion pipeline that fetches 7-day weather forecasts from the free Open-Meteo API.
+- [React - Vue + .Net Web API](https://github.com/EdgarArturoMartinez/BallastLane) — Ballastlane is a full‑stack task management application providing authenticated users with task CRUD (Kanban UI), PBKDF2-secured authentication with JWT, auditable change history, and a Dockerized ADO.NET/SQL Server backend for reproducible demos.
 - [Angular Clean_Architecture](https://github.com/EdgarArturoMartinez/TheAngularHeist) — Angular Project with Clean Architecture / SOLID / Design Patterns TS Project.
 - [Clean_Architecture_Project](https://github.com/EdgarArturoMartinez/API_ACHILLESLASTSTAND) — Clean Architecture / SOLID / Design Patterns API Project.
 - [REST_API_ProductsAPI](https://github.com/EdgarArturoMartinez/HRBackEndExercise) — REST API example for HR/product scenarios with .NET patterns.
